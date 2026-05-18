@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/nav/jsFilter.xml
+.idea
+/build
+-build
+-tasks
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.DS_Store
+
+# Android App build outputs
+/app/build
+*.apk
+*.aar
+*.aab
