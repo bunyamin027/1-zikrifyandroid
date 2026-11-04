@@ -1,7 +1,7 @@
 import java.util.Properties
 
 val keystoreProps = Properties().apply {
-    val f = file("/Users/teknopark/Desktop/mobil/android-keys/startup-toolkit/key.properties.backup")
+    val f = file("/Users/teknopark/Desktop/mobil/android-keys/zikrify/key.properties")
     if (f.exists()) f.inputStream().use { load(it) }
 }
 
